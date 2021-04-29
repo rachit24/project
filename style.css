@@ -48,7 +48,7 @@ img{
     width: 100%;
 }
 
-@media(max-width:250px){
+@media(max-width:450px){
     h1{
         font-size: 15vw;
     }
